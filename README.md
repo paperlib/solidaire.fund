@@ -1,2 +1,2 @@
-# solidity
+# Solidaire
 Fund of Funds
